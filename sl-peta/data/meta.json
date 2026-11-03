@@ -1,0 +1,14 @@
+{
+  "judul": "Peta Klub Super League",
+  "musim": "2026/27",
+  "kompetisi": "BRI Super League",
+  "satuan_nilai": "Rp miliar",
+  "catatan": "Java United dan Isenmulang Kalteng dikurangi 2 poin karena pindah kandang. Lokasi titik = perkiraan koordinat stadion.",
+  "sumber": [
+    {"untuk": "Klasemen", "nama": "ANTARA (klasemen pekan 8, 1 Nov 2026)", "url": "https://megapolitan.antaranews.com/berita/559091/klasemen-bri-super-league-pekan-ke-8-setelah-persib-dan-garudayaksa-menang"},
+    {"untuk": "Nilai pasar 31 Agt", "nama": "Transfermarkt via Murianews", "url": "https://sport.murianews.com/faqih-mansur-hidayat/474763/di-daftar-nilai-pasar-klub-super-league-persijap-paling-buncit"},
+    {"untuk": "Nilai pasar 2 Okt (10 besar)", "nama": "Transfermarkt via Databoks", "url": "https://databoks.katadata.co.id/en/sport/statistics/6abf24337804a/10-most-valuable-teams-in-the-20262027-bri-super-league-persija-tops-the-list"},
+    {"untuk": "Stadion, pelatih, kapten, apparel, pemain asing", "nama": "Wikipedia 2026–27 Super League (Indonesia)", "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_(Indonesia)"},
+    {"untuk": "Batas provinsi", "nama": "denyherianto/indonesia-geojson-topojson-maps-with-38-provinces (CC BY 4.0)", "url": "https://github.com/denyherianto/indonesia-geojson-topojson-maps-with-38-provinces"}
+  ]
+}
